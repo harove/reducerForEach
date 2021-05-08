@@ -12,7 +12,6 @@ export default function App() {
   nums.forEach(sum);
 
   console.log("state", state);
-  console.log("state", state);
   sum(8);
   console.log(" state for sum evaluated in 8", state);
 
