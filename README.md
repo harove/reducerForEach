@@ -1,0 +1,2 @@
+# reducerForEach
+Created with CodeSandbox
